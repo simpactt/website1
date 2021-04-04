@@ -1,5 +1,13 @@
 
+# DEPLOY
+
+git push ?
+
+
+# SOURCE
+
 https://themewagon.com/themes/free-bootstrap-4-html5-landing-page-template-landing/
+
 
 THEME: Landing - Free Bootstrap 4 Template
 AUTHOR: uiCookies.com
